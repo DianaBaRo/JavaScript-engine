@@ -1,2 +1,2 @@
-# JavaScript-engine.
+# JavaScript-engine
 JavaScript Class to the rescue!
